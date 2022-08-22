@@ -1,0 +1,24 @@
+nav{
+    height: 100%;
+    width: 100%;
+    background:purple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+.gambar1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+.gambar2{
+   margin-left: 10%;
+}
+.icon{
+    display: flex;
+    margin: 30px;
+}
